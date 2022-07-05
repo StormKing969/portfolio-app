@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work/portfolio-app/app/src/main/res/drawable/circle_cv.xml" value="0.3525" />
+        <entry key="..\:/Work/portfolio-app/app/src/main/res/drawable/people_card_bg.xml" value="0.3475" />
+        <entry key="..\:/Work/portfolio-app/app/src/main/res/drawable/testimonial1.xml" value="0.3475" />
+        <entry key="..\:/Work/portfolio-app/app/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
+        <entry key="..\:/Work/portfolio-app/app/src/main/res/layout/fragment_cv.xml" value="0.38697916666666665" />
+        <entry key="..\:/Work/portfolio-app/app/src/main/res/layout/fragment_home.xml" value="0.3859375" />
+        <entry key="..\:/Work/portfolio-app/app/src/main/res/layout/fragment_portfolio.xml" value="0.38697916666666665" />
+        <entry key="..\:/Work/portfolio-app/app/src/main/res/layout/fragment_testimonial.xml" value="0.38697916666666665" />
+        <entry key="..\:/Work/portfolio-app/app/src/main/res/layout/item_cv.xml" value="0.38697916666666665" />
+        <entry key="..\:/Work/portfolio-app/app/src/main/res/layout/item_people.xml" value="0.3859375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

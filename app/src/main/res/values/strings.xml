@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Portfolio App</string>
+
+    <!-- PERSONAL INTRO PAGE -->
+    <string name="name">Sajana\nWijesinghe</string>
+    <string name="job_name">Fullstack &amp; Software Developer</string>
+    <string name="intro_text">Motivated, Adventurous &amp; Hardworking</string>
+    <string name="current_job_position">Current Job Position</string>
+    <string name="current_position_details">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing enim. Scelerisque felis imperdiet proin fermentum leo vel. In hac habitasse platea dictumst vestibulum. Urna neque viverra justo nec.</string>
+    <string name="diploma">BS in Computer Science</string>
+    <string name="diploma_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing enim. Scelerisque felis imperdiet proin fermentum leo vel. In hac habitasse platea dictumst vestibulum. Urna neque viverra justo nec.</string>
+
+    <!-- EXPERIENCE PAGE -->
+    <string name="professional_experience">Professional Experience</string>
+    <!-- Experience 01 -->
+    <string name="experience_title_01">FULLSTACK DEVELOPER</string>
+    <string name="experience_duration_01">May 2022 - Present | General Motors</string>
+    <string name="experience_detail_01">Involved in the Platform and UI development of a brand new version of an existing web application current referred as NGSPA.</string>
+
+    <!-- Experience 02 -->
+    <string name="experience_title_02">OPERATION SUPERVISOR</string>
+    <string name="experience_duration_02">October 2020 - April 2022 | CVS Health</string>
+    <string name="experience_detail_02">Responsible for overseeing and ensuring the functionality for the assigned store is up to standard as well as dealing with any unresolved issues.</string>
+
+    <!-- Experience 03 -->
+    <string name="experience_title_03">WEB DEVELOPER &amp; PROJECT LEADER</string>
+    <string name="experience_duration_03">September 2019 - December 2019 | University of Massachusetts</string>
+    <string name="experience_detail_03">Researched and designed a fully functional pizza website that is linked to  a database using MySQL, JavaScript and PHP.</string>
+
+    <!-- Experience 04 -->
+    <string name="experience_title_04">MOBILE APPLICATION DEVELOPER</string>
+    <string name="experience_duration_04">January 2019 - May 2019 | University of Massachusetts</string>
+    <string name="experience_detail_04">Researched and developed an Android Application called Study Guide that is meant to help students store individual notes and play quiz like games based on those notes.</string>
+
+    <!-- Experience 05 -->
+    <string name="experience_title_05">FRONTEND DEVELOPER &amp; PROJECT LEADER</string>
+    <string name="experience_duration_05">January 2019 - May 2019 | Verbotics AI</string>
+    <string name="experience_detail_05">Researched and designed a web interface which is connected to the company\'s Artificial Intelligence as well as being user-friendly based on the client\'s feedbacks.</string>
+
+    <!-- Experience 06 -->
+    <string name="experience_title_06">COLUMNIST</string>
+    <string name="experience_duration_06">January 2017 - December 2018 | CaspiNet Inc</string>
+    <string name="experience_detail_06">Researched extensively trends and news in the computer science industry and published critical articles concerning the topics to boost company\'s online presence.</string>
+
+    <!-- TESTIMONIAL PAGE -->
+    <string name="testimonial">Testimonial</string>
+    <string name="testimonial_page_detail">Take a look at the feedback left by the people that have worked with me.</string>
+    <!-- TESTIMONIAL 01 -->
+    <string name="testimonial01_name">Daniel Werminghausen</string>
+    <string name="testimonial01_picture">Testimonial\'s Picture</string>
+    <string name="testimonial01_content">Working with him as been a smooth sailing journey. He\'s always true to his words.</string>
+
+    <!-- TESTIMONIAL 02 -->
+    <string name="testimonial02_name">Bryon Ferrer</string>
+    <string name="testimonial02_picture">Testimonial\'s Picture</string>
+    <string name="testimonial02_content">Great person to work you. He get thing do on time.</string>
+
+    <!-- PORTFOLIO PAGE -->
+    <string name="portfolio_main_description">Take a look at the most popular projects that I have done so far</string>
+    <string name="portfolio_main_title">My Portfolio</string>
+
+
+</resources>
